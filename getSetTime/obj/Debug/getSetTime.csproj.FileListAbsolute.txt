@@ -1,0 +1,7 @@
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\bin\Debug\getSetTime.exe.config
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\bin\Debug\getSetTime.exe
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\bin\Debug\getSetTime.pdb
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\obj\Debug\getSetTime.csprojResolveAssemblyReference.cache
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\obj\Debug\getSetTime.csproj.CoreCompileInputs.cache
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\obj\Debug\getSetTime.exe
+C:\Users\Lance Eaton\Documents\Programs+USBBack\usb back\progLangFolder\c#Folder\getSetTime\getSetTime\obj\Debug\getSetTime.pdb
